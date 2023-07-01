@@ -6,7 +6,23 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Jul 2023 21:20:04 +0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Jul 2023 21:38:00 +0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MyThree</title>
+      <link>/posts/mythree/</link>
+      <pubDate>Sat, 01 Jul 2023 21:38:00 +0800</pubDate>
+      
+      <guid>/posts/mythree/</guid>
+      <description>
+        
+          
+            问题：在配置中，创建git仓库时，遇到&amp;quot;.git&amp;quot;文件无法显示的问题。 解决：我询问了本组其他同学，从文件夹选项中，在查看栏勾选“显示隐藏的文件、文件夹和驱动器”选项，而后&amp;quot;.git&amp;quot;文件成功显示。 
+          
+          
+        
+      </description>
+    </item>
+    
     <item>
       <title>MySecond</title>
       <link>/posts/mysecond/</link>
